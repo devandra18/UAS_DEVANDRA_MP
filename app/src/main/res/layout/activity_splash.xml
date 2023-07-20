@@ -15,7 +15,7 @@
         <ImageView
             android:layout_width="300dp"
             android:layout_height="300dp"
-            android:src="@drawable/logo"/>
+            android:src="@drawable/profil"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -23,12 +23,12 @@
             android:textColor="@color/white"
             android:textAlignment="center"
             android:textFontWeight="@integer/material_motion_duration_long_1"
-            android:text="IZO NOVEL" />
+            android:text="Devandra Ario Gibran" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:textColor="@color/white"
-            android:text="powere by @ izonovel.com" />
+            android:text="powere by @ devagibran1@gmail.com" />
     </LinearLayout>
 </androidx.appcompat.widget.LinearLayoutCompat>
