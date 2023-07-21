@@ -154,11 +154,11 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_marginRight="5dp"
-                android:background="@drawable/eye"
+                android:background="@drawable/baseline_remove_red_eye_24"
                 />
             <TextView
                 android:layout_width="match_parent"
-                android:text="65k Dibaca"
+                android:text="100k Dibaca"
                 android:layout_height="wrap_content"/>
 
         </LinearLayout>
@@ -173,11 +173,11 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_marginRight="5dp"
-                android:background="@drawable/jempol"
+                android:background="@drawable/baseline_thumb_up_alt_24"
                 />
             <TextView
                 android:layout_width="match_parent"
-                android:text="65k Disukai"
+                android:text="80k Disukai"
                 android:layout_height="wrap_content"/>
 
         </LinearLayout>
@@ -192,11 +192,11 @@
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_marginRight="5dp"
-                android:background="@drawable/ulasan"
+                android:background="@drawable/baseline_article_24"
                 />
             <TextView
                 android:layout_width="match_parent"
-                android:text="20k Ulasan"
+                android:text="50k Ulasan"
                 android:layout_height="wrap_content"/>
 
         </LinearLayout>
