@@ -17,6 +17,7 @@ import com.sata.izonovel.Model.LoginRequestModel;
 import com.sata.izonovel.Model.LoginResponseModel;
 import com.sata.izonovel.Retrofit.APIService;
 
+
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -97,7 +98,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void run() {
                 DatabaseClient.getInstance(LoginActivity.this).getAppDatabase()
-                                .dataBaseAction().clearSessionList();
+                        .dataBaseAction().clearSessionList();
 
                 DatabaseClient.getInstance(LoginActivity.this).getAppDatabase()
                         .dataBaseAction()
